@@ -1,8 +1,8 @@
-# Evolution of Asynchronous JavaScript
+#*Evolution of Asynchronous JavaScript
 
 ### [Slides from my Talk](https://speakerdeck.com/vasa/taming-the-asynchronous-beast-in-javascript)
 
-**Table of Contents**
+!*Table of Contents**
 
 - [Callbacks](#callbacks)
 - [Promises (ES6)](#promises)
@@ -517,3 +517,4 @@ This gives us the ability to think synchronously while within an async function,
 ### Videos
 
 [The Evolution Of Asynchronous JavaScript - 2017](https://pusher.com/sessions/meetup/front-end-london/the-evolution-of-asynchronous-javascript)
+ 
